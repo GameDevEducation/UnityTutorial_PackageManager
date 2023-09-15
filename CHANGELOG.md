@@ -1,3 +1,6 @@
+## [1.0.3] - 15 September 2023
+ - Remove unneeded files
+
 ## [1.0.2] - 15 September 2023
  - Remove problem files
 
