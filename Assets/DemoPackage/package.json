@@ -1,0 +1,22 @@
+{
+  "name": "com.GameDevEducation.DemoPackage",
+  "version": "1.0.0",
+  "displayName": "Demo Package",
+  "description": "This is a Demo Package for the Unity Package Manager",
+  "unity": "2019.1",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+ },
+ "keywords": [
+    "demo",
+    "upm",
+    "template"
+  ],
+ "samples": [
+  {
+    "displayName": "Demo Sample 1",
+    "description": "Demonstrates a simple sample with a script",
+    "path": "Samples~/DemoSample1"
+  }
+ ]
+}
