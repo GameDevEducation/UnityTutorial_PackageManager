@@ -1,3 +1,6 @@
+## [1.0.2] - 15 September 2023
+ - Remove problem files
+
 ## [1.0.1] - 15 September 2023
  - Fix package name
 
